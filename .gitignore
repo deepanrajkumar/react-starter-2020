@@ -7,7 +7,6 @@ dist/
 coverage/
 .vscode/
 .idea/
-/package-lock.json
 /yarn-error.log
 .sass-cache/
 .nvm/
